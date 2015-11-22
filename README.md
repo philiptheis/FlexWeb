@@ -2,6 +2,10 @@
 All of the programs used with Flex 6K.
 First program named bndchg5.c is the initial program to scrape band change data for VHF/UHF bands
 
+Need to select Open source license
+Upload the sourc: bndchg5.c
+Get more documentation uploaded
+(Still learning Git)
 
 Configuration files
 
